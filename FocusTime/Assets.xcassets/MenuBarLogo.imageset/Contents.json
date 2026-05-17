@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "menu-logo-18.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "menu-logo-36.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

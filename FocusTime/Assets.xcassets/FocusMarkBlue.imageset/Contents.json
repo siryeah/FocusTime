@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "focus-mark-blue-256.png",
+      "idiom" : "mac",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "focus-mark-blue-512.png",
+      "idiom" : "mac",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

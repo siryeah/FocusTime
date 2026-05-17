@@ -1,0 +1,11 @@
+build/
+dist/
+DerivedData/
+*.xcuserdata/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+.swiftpm/
+.build/
+.DS_Store
+*.swp
