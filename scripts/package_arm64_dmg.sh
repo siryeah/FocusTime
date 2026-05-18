@@ -8,7 +8,7 @@ APP_NAME="FocusTime"
 VERSION="1.0.0"
 APP_PATH="$DERIVED_DATA/Build/Products/Release/$APP_NAME.app"
 STAGE_DIR="$DIST_DIR/dmg-arm64"
-DMG_PATH="$DIST_DIR/$APP_NAME-$VERSION-macOS26-arm64.dmg"
+DMG_PATH="$DIST_DIR/$APP_NAME-$VERSION-arm64.dmg"
 
 cd "$ROOT_DIR"
 
