@@ -2,6 +2,12 @@
 
 专注时刻是一个 macOS 原生菜单栏倒计时应用。它常驻菜单栏，并在桌面上显示一个轻量的悬浮倒计时卡片，适合番茄钟、专注工作和短时任务管理。
 
+## 下载
+
+请前往 [Releases 页面](https://github.com/siryeah/FocusTime/releases) 下载最新版 DMG 安装包。
+
+如果你不熟悉 GitHub：打开上面的链接后，在最新版本下方找到 `FocusTime-1.0.0-arm64.dmg`，点击即可下载。
+
 ## 系统要求
 
 - macOS 26.0 或更高版本
